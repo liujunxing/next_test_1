@@ -1,8 +1,7 @@
+import { TldrawSample } from "./tldraw_sample";
 
 export default function Page() {
   return (
-    <h1>
-      Hello next.js~!
-    </h1>
+    <TldrawSample />
   )
 }
