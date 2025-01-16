@@ -1,3 +1,7 @@
+# temp src
+/src/_tmp/
+
+
 # Logs
 logs
 *.log
